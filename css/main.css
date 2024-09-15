@@ -1,7 +1,18 @@
 /* Place CSS styles here */
   body {
-     background-color: rgb(137, 219, 219);
+     background-color: rgb(229, 111, 90);
   }
   h1 {
-    
+    color: rgb(255, 255, 255);
+  }
+
+  li {
+   color: rgba(255, 255, 255, 0.873);
+  }
+
+  h2 {
+   color: rgba(255, 255, 255, 0.873);
+  }
+  h3 {
+   color: rgba(255, 255, 255, 0.873);
   }
