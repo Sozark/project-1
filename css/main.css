@@ -2,17 +2,10 @@
   body {
      background-color: rgb(229, 111, 90);
   }
-  h1 {
+  h1,h2,h3 {
     color: rgb(255, 255, 255);
   }
 
   li {
-   color: rgba(255, 255, 255, 0.873);
-  }
-
-  h2 {
-   color: rgba(255, 255, 255, 0.873);
-  }
-  h3 {
    color: rgba(255, 255, 255, 0.873);
   }
